@@ -3,15 +3,15 @@
     {
       "firstName": "David",
       "lastName": "Buday",
-      "age": "15",
+      "age": "24",
       "city": "Vinkovci",
       "id": 1
     },
     {
-      "firstName": "asdas",
-      "lastName": "asdasd",
-      "age": "14",
-      "city": "asdas",
+      "firstName": "Jozo ",
+      "lastName": "Jozić",
+      "age": "23",
+      "city": "Osijek",
       "id": 2
     }
   ]

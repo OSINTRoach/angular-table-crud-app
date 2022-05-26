@@ -1,3 +1,7 @@
+To start this project you would need to install all deps and run 
+`json-server --watch ./db.json`
+and then serve the app
+
 # NgApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.

@@ -5,9 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "mock:server": "json-server --watch ./db.json",
-    "start:server:build": "concurrently --kill-others \"npm run mock:server\" \"npm build\"",
-    "start:server:serve": "concurrently --kill-others \"npm run mock:server\" \"npm serve\"",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },

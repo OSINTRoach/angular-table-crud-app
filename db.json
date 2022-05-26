@@ -1,0 +1,18 @@
+{
+  "person": [
+    {
+      "firstName": "David",
+      "lastName": "Buday",
+      "age": "15",
+      "city": "Vinkovci",
+      "id": 1
+    },
+    {
+      "firstName": "asdas",
+      "lastName": "asdasd",
+      "age": "14",
+      "city": "asdas",
+      "id": 2
+    }
+  ]
+}

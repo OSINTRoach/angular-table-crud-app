@@ -14,6 +14,8 @@ export class HeaderComponent implements OnInit {
   openDialog() {
     this.dialog.open(DialogComponent, {
       width: '30%'
+    }).afterClosed().subscribe(()=>{
+      location.reload()
     })
   }
   ngOnInit(): void {
